@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/0039-combination-sum) |
 ## Backtracking
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
