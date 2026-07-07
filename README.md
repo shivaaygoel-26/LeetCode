@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/0039-combination-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/0039-combination-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
