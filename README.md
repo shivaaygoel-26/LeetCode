@@ -25,16 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivaaygoel-26/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/shivaaygoel-26/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivaaygoel-26/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivaaygoel-26/LeetCode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivaaygoel-26/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivaaygoel-26/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/shivaaygoel-26/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/shivaaygoel-26/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivaaygoel-26/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivaaygoel-26/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
