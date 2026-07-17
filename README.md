@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivaaygoel-26/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shivaaygoel-26/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivaaygoel-26/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/shivaaygoel-26/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivaaygoel-26/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -56,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shivaaygoel-26/LeetCode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
