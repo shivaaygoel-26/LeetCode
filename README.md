@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivaaygoel-26/LeetCode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/shivaaygoel-26/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivaaygoel-26/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivaaygoel-26/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivaaygoel-26/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/shivaaygoel-26/LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shivaaygoel-26/LeetCode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
