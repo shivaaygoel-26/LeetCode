@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shivaaygoel-26/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivaaygoel-26/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/shivaaygoel-26/LeetCode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
