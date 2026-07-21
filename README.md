@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/shivaaygoel-26/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1103-distribute-candies-to-people](https://github.com/shivaaygoel-26/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [2235-add-two-integers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shivaaygoel-26/LeetCode/tree/master/0412-fizz-buzz) |
+| [1103-distribute-candies-to-people](https://github.com/shivaaygoel-26/LeetCode/tree/master/1103-distribute-candies-to-people) |
 ## Number Theory
 |  |
 | ------- |
