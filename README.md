@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivaaygoel-26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivaaygoel-26/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/shivaaygoel-26/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivaaygoel-26/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0414-third-maximum-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivaaygoel-26/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
