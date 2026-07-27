@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/shivaaygoel-26/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0989-add-to-array-form-of-integer](https://github.com/shivaaygoel-26/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivaaygoel-26/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivaaygoel-26/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivaaygoel-26/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/shivaaygoel-26/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/shivaaygoel-26/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivaaygoel-26/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2235-add-two-integers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2235-add-two-integers) |
