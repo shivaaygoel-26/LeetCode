@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivaaygoel-26/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/shivaaygoel-26/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivaaygoel-26/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivaaygoel-26/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shivaaygoel-26/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/shivaaygoel-26/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1103-distribute-candies-to-people](https://github.com/shivaaygoel-26/LeetCode/tree/master/1103-distribute-candies-to-people) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
