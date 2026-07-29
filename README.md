@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivaaygoel-26/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivaaygoel-26/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shivaaygoel-26/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shivaaygoel-26/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/shivaaygoel-26/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivaaygoel-26/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shivaaygoel-26/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shivaaygoel-26/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
