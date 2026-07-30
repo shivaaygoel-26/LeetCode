@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivaaygoel-26/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivaaygoel-26/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2235-add-two-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
