@@ -5,7 +5,7 @@ public:
         if(nums.size()<=2){
             return -1;
         }else {
-            int m=nums[1 ];
+            int m=nums[nums.size()/2 ];
             return m;
         }
     }
