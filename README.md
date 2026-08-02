@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/shivaaygoel-26/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/shivaaygoel-26/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -191,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
