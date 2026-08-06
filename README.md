@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivaaygoel-26/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivaaygoel-26/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
