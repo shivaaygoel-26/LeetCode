@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/shivaaygoel-26/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/shivaaygoel-26/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivaaygoel-26/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2544-alternating-digit-sum) |
