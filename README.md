@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shivaaygoel-26/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/shivaaygoel-26/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivaaygoel-26/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivaaygoel-26/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/shivaaygoel-26/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivaaygoel-26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivaaygoel-26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting
 |  |
 | ------- |
