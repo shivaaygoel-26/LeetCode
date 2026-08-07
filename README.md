@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivaaygoel-26/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3456-find-special-substring-of-length-k](https://github.com/shivaaygoel-26/LeetCode/tree/master/3456-find-special-substring-of-length-k) |
 ## Sliding Window
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivaaygoel-26/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivaaygoel-26/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shivaaygoel-26/LeetCode/tree/master/0383-ransom-note) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/shivaaygoel-26/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivaaygoel-26/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
