@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shivaaygoel-26/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/shivaaygoel-26/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivaaygoel-26/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivaaygoel-26/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivaaygoel-26/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shivaaygoel-26/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/shivaaygoel-26/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/shivaaygoel-26/LeetCode/tree/master/1103-distribute-candies-to-people) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivaaygoel-26/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivaaygoel-26/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
