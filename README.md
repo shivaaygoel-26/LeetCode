@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivaaygoel-26/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3456-find-special-substring-of-length-k](https://github.com/shivaaygoel-26/LeetCode/tree/master/3456-find-special-substring-of-length-k) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/shivaaygoel-26/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1929-concatenation-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2390-removing-stars-from-a-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivaaygoel-26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivaaygoel-26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
