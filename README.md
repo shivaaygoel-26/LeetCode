@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivaaygoel-26/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivaaygoel-26/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/shivaaygoel-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/shivaaygoel-26/LeetCode/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/shivaaygoel-26/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivaaygoel-26/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/shivaaygoel-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/shivaaygoel-26/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2032-two-out-of-three](https://github.com/shivaaygoel-26/LeetCode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivaaygoel-26/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivaaygoel-26/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/shivaaygoel-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/shivaaygoel-26/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shivaaygoel-26/LeetCode/tree/master/0383-ransom-note) |
+| [1512-number-of-good-pairs](https://github.com/shivaaygoel-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/shivaaygoel-26/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivaaygoel-26/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
