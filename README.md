@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/shivaaygoel-26/LeetCode/tree/master/2032-two-out-of-three) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivaaygoel-26/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2032-two-out-of-three](https://github.com/shivaaygoel-26/LeetCode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
