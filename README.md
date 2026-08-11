@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivaaygoel-26/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3456-find-special-substring-of-length-k](https://github.com/shivaaygoel-26/LeetCode/tree/master/3456-find-special-substring-of-length-k) |
+| [3798-largest-even-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/3798-largest-even-number) |
 ## Sliding Window
 |  |
 | ------- |
