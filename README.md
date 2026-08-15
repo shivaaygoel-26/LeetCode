@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/shivaaygoel-26/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shivaaygoel-26/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivaaygoel-26/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/shivaaygoel-26/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/shivaaygoel-26/LeetCode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shivaaygoel-26/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/shivaaygoel-26/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/3731-find-missing-elements) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shivaaygoel-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/shivaaygoel-26/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shivaaygoel-26/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivaaygoel-26/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Heap (Priority Queue)
 |  |
