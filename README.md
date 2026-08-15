@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivaaygoel-26/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/shivaaygoel-26/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/shivaaygoel-26/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/shivaaygoel-26/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/shivaaygoel-26/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/shivaaygoel-26/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3842-toggle-light-bulbs](https://github.com/shivaaygoel-26/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/shivaaygoel-26/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/shivaaygoel-26/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Stack
 |  |
 | ------- |
