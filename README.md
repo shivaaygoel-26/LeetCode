@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/shivaaygoel-26/LeetCode/tree/master/2032-two-out-of-three) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivaaygoel-26/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/shivaaygoel-26/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2032-two-out-of-three](https://github.com/shivaaygoel-26/LeetCode/tree/master/2032-two-out-of-three) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivaaygoel-26/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivaaygoel-26/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivaaygoel-26/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivaaygoel-26/LeetCode/tree/master/0342-power-of-four) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/shivaaygoel-26/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivaaygoel-26/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivaaygoel-26/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivaaygoel-26/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting Sort
