@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivaaygoel-26/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3285-find-indices-of-stable-mountains](https://github.com/shivaaygoel-26/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivaaygoel-26/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/shivaaygoel-26/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/3701-compute-alternating-sum) |
