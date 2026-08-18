@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/shivaaygoel-26/LeetCode/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivaaygoel-26/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivaaygoel-26/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivaaygoel-26/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/shivaaygoel-26/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivaaygoel-26/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivaaygoel-26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/shivaaygoel-26/LeetCode/tree/master/2942-find-words-containing-character) |
