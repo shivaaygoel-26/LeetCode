@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivaaygoel-26/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivaaygoel-26/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivaaygoel-26/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shivaaygoel-26/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivaaygoel-26/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/shivaaygoel-26/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/shivaaygoel-26/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/shivaaygoel-26/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/shivaaygoel-26/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/shivaaygoel-26/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
